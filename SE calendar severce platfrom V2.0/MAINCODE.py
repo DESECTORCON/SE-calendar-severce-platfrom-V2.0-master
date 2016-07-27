@@ -5,6 +5,7 @@
 '''업대이트할때 주의사항:
     -> 바꾸거나 수정을 할 때에는 원본을 저장하고 하십시오.
     -> 복제하지 마십시오.'''
+    
 
 import datetime, time, calendar                            # 이 프로그램에 필요한 모든 모듈을 인포트함.
 import alarmSE, stopwachSE, sysSE, timeprinterSE, calendarManagerSE, timeprinterSE
